@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Student Profile </title>
+</head>
+<body>
+
+<h1> Student Profile </h1>
+
+<table>
+
+<tr>
+
+<th> Student Name </th>
+<th> </th>
+<th> </th>
+<th> </th>
+
+</tr>
+
+
+<tr>
+
+<td> ABAYARE, mariel J </td>
+<td> </td>
+<td> </td>
+
+</tr>
+
+
+<tr>
+
+<td> ABAYARE, mariel J </td>
+<td> </td>
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td> ABAYARE, mariel J </td>
+<td> </td>
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td> ABAYARE, mariel J </td>
+<td> </td>
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td> ABAYARE, mariel J </td>
+<td> </td>
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td> ABAYARE, mariel J </td>
+<td> </td>
+<td> </td>
+
+</tr>
+
+</table>
+</body>
+</html>
+
